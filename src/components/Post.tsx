@@ -9,7 +9,7 @@ import { PostProps } from '../@types/PostProps'
 export const Post = ({ author, content, publishedAt }: PostProps) => {
 
     const [comments, setComments] = useState([
-        'Parabéns, muito bom!'
+        ''
     ])
 
     const [newCommentText, setNewCommentText] = useState('')
@@ -102,6 +102,7 @@ export const Post = ({ author, content, publishedAt }: PostProps) => {
             <div className={styles.commentList}>
                 {
                     comments.map((comment, index) => {
+                        if(comment === '') return
                         return (
                             <Comment
                                 onDeleteComment={deleteComment}

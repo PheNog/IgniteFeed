@@ -20,7 +20,7 @@ const posts = [
     content: [
       { type: 'paragraph', content: 'Fala pessoal!' },
       { type: 'paragraph', content: 'Acabando de subir mais um projeto no meu portifolio, é um projeto que fiz na NLW copa!' },
-      { type: 'link', content: 'phenog.github/nlwcopa' },
+      { type: 'link', content: 'phenog/nlwcopa' },
     ],
     publishedAt: new Date('2022-05-16 20:00:00')
   },
@@ -32,7 +32,7 @@ const posts = [
       role: 'CTO RocketSeat'
     },
     content: [
-      { type: 'paragraph', content: 'Muito bom Phe, parabéns!' },
+      { type: 'paragraph', content: 'Melhor feed de todos!' },
       { type: 'link', content: '#neverStopLearning' },
     ],
     publishedAt: new Date('2022-05-18 10:00:00')
