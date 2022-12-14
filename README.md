@@ -2,7 +2,7 @@
 
 <h1 align="center">Ignite Feed</h1>
 
-![Ignite Feed](https://user-images.githubusercontent.com/40326598/200138387-f97fb545-6de7-47aa-9d8f-a71f11ecb6a1.png)
+![Ignite Feed](https://user-images.githubusercontent.com/104810112/207644929-903cacbf-0e9e-43b9-9ed3-a4c787dd3599.png)
 ---
 
 
